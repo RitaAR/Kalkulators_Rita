@@ -15,8 +15,7 @@
     // Mainīgais - decimālajai zīmei
     let decimalClicked = false;
      
-     
-    
+         
     // funkcija, kura tiek izsaukta, nospiežot cipara pogu, skaitļu iegūšana
     function numButPress(num){
        
